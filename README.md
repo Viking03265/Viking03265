@@ -1,5 +1,5 @@
-<img src='https://drive.google.com/file/d/1edNZtc4e0XvQN9MFz-7rzu4JwVokNjBH/view?usp=sharing'/>
-<div style="background:url('https://drive.google.com/file/d/1edNZtc4e0XvQN9MFz-7rzu4JwVokNjBH/view?usp=sharing')">
+<img src='footer-new.jpg'/>
+<div style="position:absolute; top:0">
   I have been using the term "Viking Coder" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. I am a big coder, and I like big, simple solutions to problems. And I have a least a little bit of Scandinavian in me.
 
 I wanted to open this up, so steal, pull, push away!
