@@ -1,4 +1,27 @@
 <img src='logo.jpg'/>
+<div>
+  <a href="https://github.com/viking03265">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-11bb44?style=plastic&logo=javascript&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-blue?style=plastic&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=redux&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="Redux" src="https://img.shields.io/badge/-express-inactive?style=plastic&logo=express&logoColor=white" />
+  </a>
+   <a href="https://github.com/viking03265">
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" />
+  </a>
+</div>
 <div style="position:absolute; top:0">
   I have been using the term "Viking Coder" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. I am a big coder, and I like big, simple solutions to problems. And I have a least a little bit of Scandinavian in me.
 
