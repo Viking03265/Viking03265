@@ -1,6 +1,9 @@
 <img src='logo.jpg'/>
 <div>
   <a href="https://github.com/viking03265">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
     <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white" />
   </a>
   <a href="https://github.com/viking03265">
