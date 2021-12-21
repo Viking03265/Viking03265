@@ -1,6 +1,15 @@
 <img src='logo.jpg'/>
 <div>
   <a href="https://github.com/viking03265">
+    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white" />
+  </a>
+   <a href="https://github.com/viking03265">
+    <img alt="Sass" src="https://img.shields.io/badge/Tailwind CSS-yellow?style=plastic&logo=tailwind CSS&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
   </a>
   <a href="https://github.com/viking03265">
@@ -13,13 +22,28 @@
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=redux&logoColor=white" />
   </a>
   <a href="https://github.com/viking03265">
-    <img alt="Redux" src="https://img.shields.io/badge/-express-inactive?style=plastic&logo=express&logoColor=white" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" />
   </a>
    <a href="https://github.com/viking03265">
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=white" />
   </a>
+</div>
+
+<div>
   <a href="https://github.com/viking03265">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" />
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=plastic&logo=bitcoin&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Ethereum-442288?style=plastic&logo=ethereum&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-blue?style=plastic&logo=solidity&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="Solidity" src="https://img.shields.io/badge/Rust-443330?style=plastic&logo=rust&logoColor=white" />
+  </a>
+  <a href="https://github.com/viking03265">
+    <img alt="Solidity" src="https://img.shields.io/badge/Web3.js-11aa33?style=plastic&logo=web3.js&logoColor=white" />
   </a>
 </div>
 <div style="position:absolute; top:0">
