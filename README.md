@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center"> Viking Programer </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=viking03265.viking03265" />
 
 <img align="right" src="https://img.shields.io/github/followers/viking03265?label=Follow&style=social" />
@@ -55,19 +55,20 @@
   </a>
 </div>
 <div style="position:absolute; top:0">
-  I have been using the term "Viking Coder" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. 
+
+I have been using the term "Viking Programer" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. 
   
-  ```
-  I am a strong coder, and I like to dive into challenging problems to retrieve crystal clear and simple solutions. 
+```
+  I am a strong programer, and I like to dive into challenging problems to retrieve crystal clear and simple solutions. 
   
   And I have a least a little bit of Scandinavian in me.
-  ```
+```
 
 I wanted to open this up, so steal, pull, push away!
 
-Thus the ✨Viking Coder✨ was born.
+Thus the ✨Viking Programer✨ was born.
 
-The Viking coder is also a response to many of the ⚡Agile practices⚡ out there...
+The Viking Programer is also a response to many of the ⚡Agile practices⚡ out there...
 </div>
 
 
