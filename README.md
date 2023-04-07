@@ -2,7 +2,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=viking03265.viking03265" />
 
 <img align="right" src="https://img.shields.io/github/followers/viking03265?label=Follow&style=social" />
-<img src='logo.jpg'/>
+
 <div>
   <a href="https://github.com/viking03265">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
