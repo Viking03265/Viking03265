@@ -58,6 +58,7 @@
 <h2></h2>
 I have been using the term "Viking Programer" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. 
 <p></p>  
+  
 ```
   I am a strong programer, and I like to dive into challenging problems to retrieve crystal clear and simple solutions. 
   
