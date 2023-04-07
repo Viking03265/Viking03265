@@ -2,7 +2,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=viking03265.viking03265" />
 
 <img align="right" src="https://img.shields.io/github/followers/viking03265?label=Follow&style=social" />
-<h2/>
+<h2></h2>
 <hr>
 
 <div>
@@ -56,7 +56,7 @@
   </a>
 </div>
 <div style="position:absolute; top:0">
-<h2/>
+<h2></h2>
 I have been using the term "Viking Programer" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. 
   
 ```
