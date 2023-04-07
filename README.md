@@ -55,13 +55,13 @@
   </a>
 </div>
 <div style="position:absolute; top:0">
-  I have been using the term "Viking Coder" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. I am a big coder, and I like big, simple solutions to problems. And I have a least a little bit of Scandinavian in me.
+  I have been using the term "Viking Coder" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. I am a strong coder, and I like crystal clear and simple solutions to problems. And I have a least a little bit of Scandinavian in me.
 
 I wanted to open this up, so steal, pull, push away!
 
 Thus the ✨Viking Coder✨ was born.
 
-The Viking coder is also a response to many of the Agile practices out there...
+The Viking coder is also a response to many of the ⚡Agile practices⚡ out there...
 </div>
 
 
