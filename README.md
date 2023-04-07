@@ -3,7 +3,6 @@
 
 <img align="right" src="https://img.shields.io/github/followers/viking03265?label=Follow&style=social" />
 <h2></h2>
-<hr>
 
 <div>
   <a href="https://github.com/viking03265">
@@ -58,7 +57,7 @@
 <div style="position:absolute; top:0">
 <h2></h2>
 I have been using the term "Viking Programer" for a several years now. Honestly, it was a "equal and opposite" reaction to the rise of the Rockstar Ninja Samurai whatever in job descriptions. I don't play a guitar or dress in black PJ's. 
-  
+<p></p>  
 ```
   I am a strong programer, and I like to dive into challenging problems to retrieve crystal clear and simple solutions. 
   
