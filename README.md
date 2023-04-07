@@ -72,6 +72,7 @@ Thus the ✨Viking Programer✨ was born.
 The Viking Programer is also a response to many of the ⚡Agile practices⚡ out there...
 </div>
 
+<hr>
 
 <div align="center">
   <a href="https://github.com/viking03265">
